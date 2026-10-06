@@ -257,6 +257,6 @@ Success ✅
 
 ## See Also
 
-- [Payment Routing Guide](https://github.com/werouteapi/routing-api-docs/blob/main/docs/payment-routing.md)
-- [Compliance Guide](https://github.com/werouteapi/routing-api-docs/blob/main/docs/compliance.md)
-- [Error Codes](https://github.com/werouteapi/routing-api-docs/blob/main/docs/error-codes.md)
+- [Payment Routing Guide](https://docs.routingapi.com/payment-routing)
+- [Compliance Guide](https://docs.routingapi.com/compliance)
+- [Error Codes](https://docs.routingapi.com/error-codes)

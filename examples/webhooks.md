@@ -29,4 +29,4 @@ app.post('/webhooks/routing', express.json(), async (req, res) => {
 });
 ```
 
-[See full guide in routing-api-docs](https://github.com/werouteapi/routing-api-docs/blob/main/docs/webhooks.md)
+[See full guide in routing-api-docs](https://docs.routingapi.com/webhooks)

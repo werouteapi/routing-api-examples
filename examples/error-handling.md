@@ -36,4 +36,4 @@ async function processPaymentWithErrorHandling(order) {
 }
 ```
 
-[See full guide in routing-api-docs](https://github.com/werouteapi/routing-api-docs/blob/main/docs/error-codes.md)
+[See full guide in routing-api-docs](https://docs.routingapi.com/error-codes)
