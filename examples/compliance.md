@@ -26,4 +26,4 @@ async function checkCompliance(customer) {
 }
 ```
 
-[See full guide in routing-api-docs](https://docs.routingapi.com/compliance)
+[See full guide in routing-api-docs](https://docs.webundle.org/compliance)

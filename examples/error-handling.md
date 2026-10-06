@@ -36,4 +36,4 @@ async function processPaymentWithErrorHandling(order) {
 }
 ```
 
-[See full guide in routing-api-docs](https://docs.routingapi.com/error-codes)
+[See full guide in routing-api-docs](https://docs.webundle.org/error-codes)

@@ -300,6 +300,6 @@ CREATE TABLE subscriptions (
 
 ## See Also
 
-- [Payment Routing Guide](https://docs.routingapi.com/payment-routing)
+- [Payment Routing Guide](https://docs.webundle.org/payment-routing)
 - [Error Handling](error-handling.md)
 - [Webhook Handling](webhooks.md)
