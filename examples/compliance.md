@@ -26,4 +26,4 @@ async function checkCompliance(customer) {
 }
 ```
 
-[See full guide in docs/compliance.md](../../docs/compliance.md)
+[See full guide in routing-api-docs](https://github.com/werouteapi/routing-api-docs/blob/main/docs/compliance.md)
